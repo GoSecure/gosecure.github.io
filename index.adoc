@@ -17,7 +17,7 @@
 * link:https://gosecure.github.io/request-smuggling-workshop/[Introduction to Request Smuggling] by link:{twpa}[Philippe Arteau]
 * link:https://gosecure.github.io/xxe-workshop/[Advanced XXE Workshop] by link:{twpa}[Philippe Arteau]
 * link:https://gosecure.github.io/template-injection-workshop/[Template Injection in Action] [link:https://www.youtube.com/watch?v=I7xQZOvZzIw[video]] by link:{twpa}[Philippe Arteau]
-* link:2020-05-15-advanced-binary-analysis/[Advanced Binary Analysis Workshop] by https://segfault.me[Alexandre Beaulieu]
+* link:https://gosecure.github.io/presentations/2020-05-15-advanced-binary-analysis/[Advanced Binary Analysis Workshop] by https://segfault.me[Alexandre Beaulieu]
 
 == Publications
 
